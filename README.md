@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/kingokeke/bond-exercise-react.svg?style=svg&circle-token=9e0ca6f4d21d123ef71fc0ce64a99784e07d7e0f)](https://circleci.com/gh/kingokeke/bond-exercise-react)
+
 # Exercise React
 
 Run the server with
